@@ -1,11 +1,11 @@
 # Intensivão de Python
 >  O intuito desse commit é deixar salvo a resolução de todos os exercícios das 10 horas de aulas do Intensivão de Python, feito pela galera da <a href="https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o">Hashtag Programação</a>.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/CPlusPlus-CFBCursos?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/Intensivao-de-Python?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/Intensivao-de-Python?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/KauaMB2/Intensivao-de-Python?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/Intensivao-de-Python?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/Intensivao-de-Python?style=for-the-badge)
 <hr>
 
 Os programas foram feitos no Jupyter Notebook, mas meu Github sempre buga quando posto algum arquivo Jupyter. Então passei para arquivos .py. <br> Além disso não consegui fazer o commit junto com os arquivos Excel, caso queiram dar olha olhada nos programas com os arquivos, cliquem <a href="https://drive.google.com/drive/folders/1JLa3vHvF_U4J4wTVkjKy0wn6NrrHAkPK"> aqui</a>.
